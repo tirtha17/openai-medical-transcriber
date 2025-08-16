@@ -1,7 +1,7 @@
 # <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/ea05fa24-092d-49bb-b52a-d7854ccfcbee" /> openai-medical-transcriber 
 
 Extract structured data — including age, medical specialty, and recommended treatment — from anonymized medical transcriptions given in CSV format using the OpenAI API.    
-Maps treatments to ICD codes. Built as part of a DataCamp project on real-world NLP in healthcare.
+Maps treatments to ICD codes. Built as part of a DataCamp project on real-world NLP in healthcare. 
 
 
 ## 🩺 Project Overview
